@@ -2,19 +2,18 @@
 ## Current project: [MarkdownToLaTeX](https://pypi.org/project/MarkdownToLaTeX) :triangular_ruler:
 I am currently working on 
 [MarkdownToLaTeX](https://pypi.org/project/MarkdownToLaTeX), a Markdown-to-LaTeX parser.  
-MarkdownToLaTeX started as a toy project in which I could implement TLA (Temporal Logic of Actions).  
+MarkdownToLaTeX started as a toy project to which I could apply 
+[<img src="https://raw.githubusercontent.com/gitcordier/gitcordier/main/tlaplus.png" alt="TLA Plus" width="3%">](https://github.com/tlaplus)  
 
-The MarkdownToLaTeX parsing implements a state machine whose steps are decided by
-1. The last input character,
-2. A bounded memory that stores the necessary context.
+The MarkdownToLaTeX parsing implements a state machine whose steps are decided by  
+:one: The last input character,  
+:two: A bounded memory that stores the necessary context.
 
-The parsing automaton was first written in the specification language [TLA+](https://github.com/tlaplus) then tested 
-[<img src="https://raw.githubusercontent.com/gitcordier/gitcordier/main/tlaplus.png" alt="TLA Plus" width="10%">](https://github.com/tlaplus) 
-within the [TLA Toolbox](https://github.com/tlaplus).  
-The whole [source code](https://github.com/gitcordier/MarkdownToLaTeX) is written in 
-[<img src="https://raw.githubusercontent.com/gitcordier/gitcordier/main/python-logo@2x.png" alt="Python" width="10%">](https://python.org)  
+The parsing automaton was first written in 
+[<img src="https://raw.githubusercontent.com/gitcordier/gitcordier/main/tlaplus.png" alt="TLA Plus" width="3%">](https://github.com/tlaplus), next in 
+[<img src="https://raw.githubusercontent.com/gitcordier/gitcordier/main/python-logo@2x.png" alt="Python" width="7%">](https://github.com/gitcordier/MarkdownToLaTeX)  
  
-:books: A compiled-from-code [documentation](https://markdowntolatex.readthedocs.io) and a
+A compiled-from-code [documentation](https://markdowntolatex.readthedocs.io) and a
 [mathsheet](https://github.com/gitcordier/MarkdownToLaTeX/blob/main/MarkdownToLaTeX_Mathsheet.pdf) are available as well.
 
 This is an ongoing process… but I try as hard as I can to keep up the pace :rowboat:
