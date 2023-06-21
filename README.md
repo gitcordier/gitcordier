@@ -5,6 +5,6 @@ I’m currently working on [MarkdownToLaTeX](https://pypi.org/project/MarkdownTo
 ## [Linkedin](https://www.linkedin.com/in/gabriel-cordier-58097494)
 ##
 <a href="your-linkedin-URL">
-    <img src="image.png" alt="LinkedIn Badge"/>
+    <img src="/image.png" alt="LinkedIn Badge"/>
   </a>
 
