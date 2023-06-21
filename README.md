@@ -1,7 +1,7 @@
-## Hi there
+## :construction_worker: { Hi there!
 
 Please find below the description of my projects and a contact section
-## Current project: [MarkdownToLaTeX](https://pypi.org/project/MarkdownToLaTeX) 
+## Current project: [MarkdownToLaTeX](https://pypi.org/project/MarkdownToLaTeX) :triangular_ruler:
 I am currently working on 
 [MarkdownToLaTeX](https://pypi.org/project/MarkdownToLaTeX), a Markdown-to-LaTeX parser. 
 MarkdownToLaTeX started as a toy project in which I could implement TLA (Temporal Logic of Actions).  
@@ -17,31 +17,30 @@ A [source code](https://github.com/gitcordier/MarkdownToLaTeX) is available,
 along a compiled-from-code [documentation](https://markdowntolatex.readthedocs.io) and a
 [Mathsheet](https://github.com/gitcordier/MarkdownToLaTeX/blob/main/MarkdownToLaTeX_Mathsheet.pdf).  
 
-This is an ongoing process… but I try as hard as I can to keep up the pace.
-## [Functional Analysis](https://github.com/gitcordier/FunctionalAnalysis)
-Some solutions to Rudin's Functional Analysis. 
+This is an ongoing process… but I try as hard as I can to keep up the pace :rowboat:
+## :construction: [Functional Analysis](https://github.com/gitcordier/FunctionalAnalysis) 
+Some solutions to Rudin's Functional Analysis.  
 It's been a long time I haven't added new content. I really should but proofreading takes time…
-## [Bellingcat](https://github.com/gitcordier/bellingcat)
+## :white_check_mark: [Bellingcat](https://github.com/gitcordier/bellingcat)
 Code from [Bellingcat's guide](https://www.bellingcat.com/category/resources/how-tos).
-## [The ChemicalBrowsers](https://github.com/gitcordier/TheChemicalBrowsers)
-Given a chemical formula represented by a string, the parser counts the number of atoms of each element contained in the molecule then  
-returns the result as a dictionary.  
+## :white_check_mark: [The ChemicalBrowsers](https://github.com/gitcordier/TheChemicalBrowsers)
+Given a chemical formula represented by a string, 
+the parser counts the number of atoms of each element contained in the molecule 
+then returns the result as a dictionary.  
 
 The trick is: Reading formulas from right to left makes the algorithm pretty straightforward.
-## [stack_qalculator](https://github.com/gitcordier/stack_qalculator)
+## :white_check_mark: [stack_qalculator](https://github.com/gitcordier/stack_qalculator)
 Written for a job interview: A
 [Reverse Polish Notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation) calculator. 
 In other words, you can think of it as a stack-based process: First, push numbers in the stack, next compute then save the result as tail of the stack. 
-##  [ReversePolishNotationParser](https://github.com/gitcordier/ReversePolishNotationParser)
+## :white_check_mark: [ReversePolishNotationParser](https://github.com/gitcordier/ReversePolishNotationParser)
 Another reverse polish parser, written for a previous job process. 
-## [Salesman problem: Special quadratic case](https://github.com/gitcordier/minimal_length_of_graph_traversal)
+## :white_check_mark: [Salesman problem: Special quadratic case](https://github.com/gitcordier/minimal_length_of_graph_traversal)
 The special case means quadratic complexity. I like this problem, since getting a clean algorithm was a little bit tricky, but I could make it. Found the problem in a coding contest.
-## [Using Selenium](https://github.com/gitcordier/selenium)
+## :white_check_mark: [Using Selenium](https://github.com/gitcordier/selenium)
 Given a workshop (at this time, it was https://www.parisfintechforum.com), the script gets all "featured" participants websites (Source: https://www.parisfintechforum.com/PFF2018/participants).
 you can seee the code as a template: I assume that the code can be easily reused and applied to other websites.
-## [Contact](https://www.linkedin.com/in/gabriel-cordier-58097494)
-I am open to work, feel free to connect on [Linkedin](https://www.linkedin.com/in/gabriel-cordier-58097494).  
-Email works as well: ue.reidrocg@nimda (read it from right to left).
-
-
+## [:postbox:](https://www.linkedin.com/in/gabriel-cordier-58097494) [contact](https://www.linkedin.com/in/gabriel-cordier-58097494)
+I am open to work :moneybag:, feel free to connect with me on [Linkedin](https://www.linkedin.com/in/gabriel-cordier-58097494).  
+:email: works as well: ue.reidrocg@nimda (read it from right to left).
 
