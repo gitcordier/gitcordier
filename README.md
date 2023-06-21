@@ -17,10 +17,10 @@ The whole [source code](https://github.com/gitcordier/MarkdownToLaTeX) is writte
 [mathsheet](https://github.com/gitcordier/MarkdownToLaTeX/blob/main/MarkdownToLaTeX_Mathsheet.pdf) are available as well.
 
 This is an ongoing process… but I try as hard as I can to keep up the pace :rowboat:
-## :construction: [Functional Analysis](https://github.com/gitcordier/FunctionalAnalysis) 
+## :construction: [Functional Analysis](https://github.com/gitcordier/FunctionalAnalysis) 4 :star:
 Some solutions to Rudin's Functional Analysis.  
 It's been a long time I haven't added new content. I really should but proofreading takes time…
-## :white_check_mark: [Bellingcat](https://github.com/gitcordier/bellingcat)
+## :white_check_mark: [Bellingcat](https://github.com/gitcordier/bellingcat) 9 :star:
 Code from [Bellingcat's guide](https://www.bellingcat.com/category/resources/how-tos).
 ## :white_check_mark: [The ChemicalBrowsers](https://github.com/gitcordier/TheChemicalBrowsers)
 Given a chemical formula represented by a string, 
