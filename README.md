@@ -9,10 +9,11 @@ The MarkdownToLaTeX parsing implements a state machine whose steps are decided b
 2. A bounded memory that stores the necessary context.
 
 The parsing automaton was first written in the specification language [TLA+](https://github.com/tlaplus) then tested 
-within the TLA Toolbox [TLA Toolbox](https://github.com/tlaplus).  
+[<img src="https://raw.githubusercontent.com/gitcordier/gitcordier/main/tlaplus.png" alt="TLA Plus" width="10%">](https://github.com/tlaplus) 
+within the [TLA Toolbox](https://github.com/tlaplus).  
 The whole [source code](https://github.com/gitcordier/MarkdownToLaTeX) is written in 
 [<img src="https://raw.githubusercontent.com/gitcordier/gitcordier/main/python-logo@2x.png" alt="Python" width="10%">](https://python.org)  
-
+ 
 :books: A compiled-from-code [documentation](https://markdowntolatex.readthedocs.io) and a
 [mathsheet](https://github.com/gitcordier/MarkdownToLaTeX/blob/main/MarkdownToLaTeX_Mathsheet.pdf) are available as well.
 
