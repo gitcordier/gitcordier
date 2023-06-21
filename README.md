@@ -2,7 +2,7 @@
 I am currently working on 
 [MarkdownToLaTeX](https://pypi.org/project/MarkdownToLaTeX), a Markdown-to-LaTeX parser.  
 
-Actually, MarkdownToLaTeX began as a toy project in which I could implement TLA (Temporal Logic of Actions).  
+Actually, MarkdownToLaTeX started as a toy project in which I could implement TLA (Temporal Logic of Actions).  
 The MarkdownToLaTeX parsing implements a state machine whose steps are decided by
 1. The last input character,
 2. A bounded memory that stores the necessary context.
