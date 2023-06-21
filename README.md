@@ -40,7 +40,7 @@ The special case means quadratic complexity. I like this problem, since getting 
 ## :white_check_mark: [Using Selenium](https://github.com/gitcordier/selenium)
 Given a workshop (at this time, it was https://www.parisfintechforum.com), the script gets all "featured" participants websites (Source: https://www.parisfintechforum.com/PFF2018/participants).
 you can seee the code as a template: I assume that the code can be easily reused and applied to other websites.
-## [:postbox:](https://www.linkedin.com/in/gabriel-cordier-58097494) [contact](https://www.linkedin.com/in/gabriel-cordier-58097494)
-I am open to work :moneybag:, feel free to connect with me on [Linkedin](https://www.linkedin.com/in/gabriel-cordier-58097494).  
-:email: works as well: ue.reidrocg@nimda (read it from right to left).
+## [:moneybag:](https://www.linkedin.com/in/gabriel-cordier-58097494) [Hire me](https://www.linkedin.com/in/gabriel-cordier-58097494)
+I am open to work , feel free to connect with me on [Linkedin](https://www.linkedin.com/in/gabriel-cordier-58097494).  
+:postbox: works as well: ue.reidrocg@nimda (read it from right to left).
 
