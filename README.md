@@ -10,7 +10,7 @@ The MarkdownToLaTeX parsing implements a state machine whose steps are decided b
 
 The parsing automaton was first written in the specification language [TLA+](https://github.com/tlaplus) then tested 
 within the TLA Toolbox [TLA Toolbox](https://github.com/tlaplus).  
-The whole sourcecode is written in Python.  
+The whole sourcecode is written in [https://raw.githubusercontent.com/gitcordier/gitcordier/main/python-logo@2x.png](Python).  
 
 :books: A [source code](https://github.com/gitcordier/MarkdownToLaTeX) is available, 
 along a compiled-from-code [documentation](https://markdowntolatex.readthedocs.io) and a
