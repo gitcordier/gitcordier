@@ -10,12 +10,11 @@ The MarkdownToLaTeX parsing implements a state machine whose steps are decided b
 
 The parsing automaton was first written in the specification language [TLA+](https://github.com/tlaplus) then tested 
 within the TLA Toolbox [TLA Toolbox](https://github.com/tlaplus).  
-The whole sourcecode is written in 
+The whole [source code](https://github.com/gitcordier/MarkdownToLaTeX) is written in 
 [<img src="https://raw.githubusercontent.com/gitcordier/gitcordier/main/python-logo@2x.png" alt="Python" width="10%">](https://python.org)  
 
-:books: A [source code](https://github.com/gitcordier/MarkdownToLaTeX) is available, 
-along a compiled-from-code [documentation](https://markdowntolatex.readthedocs.io) and a
-[mathsheet](https://github.com/gitcordier/MarkdownToLaTeX/blob/main/MarkdownToLaTeX_Mathsheet.pdf).  
+:books: A compiled-from-code [documentation](https://markdowntolatex.readthedocs.io) and a
+[mathsheet](https://github.com/gitcordier/MarkdownToLaTeX/blob/main/MarkdownToLaTeX_Mathsheet.pdf) are available as well.
 
 This is an ongoing process… but I try as hard as I can to keep up the pace :rowboat:
 ## :construction: [Functional Analysis](https://github.com/gitcordier/FunctionalAnalysis) 
