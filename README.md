@@ -1,6 +1,6 @@
 I am currently working on [MarkdownToLaTeX](https://pypi.org/project/MarkdownToLaTeX)  
 <div id="header" align="center">
-  <img src="https://github.com/gitcordier/gitcordier/blob/main/image.png" width="100"/>
+  <img src="https://raw.githubusercontent.com/gitcordier/gitcordier/main/image.png" width="100"/>
 </div>
 
 
