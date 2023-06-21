@@ -1,9 +1,7 @@
 ## :construction_worker: { Hi there!
-
-Please find below the description of my projects and a contact section
 ## Current project: [MarkdownToLaTeX](https://pypi.org/project/MarkdownToLaTeX) :triangular_ruler:
 I am currently working on 
-[MarkdownToLaTeX](https://pypi.org/project/MarkdownToLaTeX), a Markdown-to-LaTeX parser. 
+[MarkdownToLaTeX](https://pypi.org/project/MarkdownToLaTeX), a Markdown-to-LaTeX parser.  
 MarkdownToLaTeX started as a toy project in which I could implement TLA (Temporal Logic of Actions).  
 
 The MarkdownToLaTeX parsing implements a state machine whose steps are decided by
@@ -11,11 +9,12 @@ The MarkdownToLaTeX parsing implements a state machine whose steps are decided b
 2. A bounded memory that stores the necessary context.
 
 The parsing automaton was first written in the specification language [TLA+](https://github.com/tlaplus) then tested 
-within the TLA Toolbox [TLA Toolbox](https://github.com/tlaplus). The whole sourcecode is written in Python.  
+within the TLA Toolbox [TLA Toolbox](https://github.com/tlaplus).  
+The whole sourcecode is written in Python.  
 
-A [source code](https://github.com/gitcordier/MarkdownToLaTeX) is available, 
+:books: A [source code](https://github.com/gitcordier/MarkdownToLaTeX) is available, 
 along a compiled-from-code [documentation](https://markdowntolatex.readthedocs.io) and a
-[Mathsheet](https://github.com/gitcordier/MarkdownToLaTeX/blob/main/MarkdownToLaTeX_Mathsheet.pdf).  
+[mathsheet](https://github.com/gitcordier/MarkdownToLaTeX/blob/main/MarkdownToLaTeX_Mathsheet.pdf).  
 
 This is an ongoing process… but I try as hard as I can to keep up the pace :rowboat:
 ## :construction: [Functional Analysis](https://github.com/gitcordier/FunctionalAnalysis) 
