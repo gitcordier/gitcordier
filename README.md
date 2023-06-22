@@ -1,5 +1,5 @@
 ## :construction_worker: { Hi there!
-## Current project: [MarkdownToLaTeX](https://pypi.org/project/MarkdownToLaTeX) :triangular_ruler:
+## Current project: [MarkdownToLaTeX](https://github.com/gitcordier/MarkdownToLaTeX) :triangular_ruler:
 I am currently working on 
 [MarkdownToLaTeX](https://pypi.org/project/MarkdownToLaTeX), a Markdown-to-LaTeX parser.  
 MarkdownToLaTeX started as a toy project to which I could apply 
