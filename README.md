@@ -1,4 +1,4 @@
-## :construction_worker: { Hi there!
+## :construction_worker: { Hi there !
 ## Current project: [MarkdownToLaTeX](https://github.com/gitcordier/MarkdownToLaTeX) :triangular_ruler:
 I am currently working on 
 [MarkdownToLaTeX](https://pypi.org/project/MarkdownToLaTeX), a Markdown-to-LaTeX parser.  
@@ -16,7 +16,7 @@ The parsing automaton was first written in
 A compiled-from-code [documentation](https://markdowntolatex.readthedocs.io) and a
 [mathsheet](https://github.com/gitcordier/MarkdownToLaTeX/blob/main/MarkdownToLaTeX_Mathsheet.pdf) are available as well.
 
-This is an ongoing process… but I try as hard as I can to keep up the pace :rowboat:
+This is an ongoing process… :rowboat: but I try as hard as I can to keep up the pace 
 ## :construction: [Functional Analysis](https://github.com/gitcordier/FunctionalAnalysis) 4 :star:
 Some solutions to Rudin's Functional Analysis.  
 It's been a long time I haven't added new content. I really should but proofreading takes time…
@@ -39,7 +39,7 @@ The special case means quadratic complexity. I like this problem, since getting 
 ## :white_check_mark: [Using Selenium](https://github.com/gitcordier/selenium)
 Given a workshop (at this time, it was https://www.parisfintechforum.com), the script gets all "featured" participants websites (Source: https://www.parisfintechforum.com/PFF2018/participants).
 you can seee the code as a template: I assume that the code can be easily reused and applied to other websites.
-## [:moneybag:](https://www.linkedin.com/in/gabriel-cordier-58097494) [Hire me](https://www.linkedin.com/in/gabriel-cordier-58097494)
+## [:arrow_forward:](https://www.linkedin.com/in/gabriel-cordier-58097494) [Hire me](https://www.linkedin.com/in/gabriel-cordier-58097494)
 I am open to work , feel free to connect with me on [Linkedin](https://www.linkedin.com/in/gabriel-cordier-58097494).  
 :postbox: works as well: ue.reidrocg@nimda (read it from right to left).
 
