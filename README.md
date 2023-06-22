@@ -1,5 +1,5 @@
 ## :construction_worker: { Hi there !
-## [:arrow_forward:] [MarkdownToLaTeX](https://github.com/gitcordier/MarkdownToLaTeX)
+## :arrow_forward: [MarkdownToLaTeX](https://github.com/gitcordier/MarkdownToLaTeX)
 I am currently working on 
 [MarkdownToLaTeX](https://pypi.org/project/MarkdownToLaTeX), a Markdown-to-LaTeX parser.  
 MarkdownToLaTeX started as a toy project to which I could apply 
