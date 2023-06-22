@@ -14,7 +14,7 @@ The parsing automaton was first written in
 [<img src="https://raw.githubusercontent.com/gitcordier/gitcordier/main/python-logo@2x.png" alt="Python" width="7%">](https://github.com/gitcordier/MarkdownToLaTeX)  
  
 A compiled-from-code [documentation](https://markdowntolatex.readthedocs.io) and a
-[mathsheet](https://github.com/gitcordier/MarkdownToLaTeX/blob/main/MarkdownToLaTeX_Mathsheet.pdf) are available as well.
+[mathsheet](https://raw.githubusercontent.com/gitcordier/MarkdownToLaTeX/main/MarkdownToLaTeX_Mathsheet.pdf) are available as well.
 
 This is an ongoing process… :rowboat: but I try as hard as I can to keep up the pace 
 ## :construction: [Functional Analysis](https://github.com/gitcordier/FunctionalAnalysis) 4 :star:
