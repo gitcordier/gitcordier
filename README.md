@@ -1,4 +1,4 @@
-## :male-technologist: { Hi there !
+## :man_technologist: { Hi there !
 ## :arrow_forward: [MarkdownToLaTeX](https://github.com/gitcordier/MarkdownToLaTeX) 1 :star:
 I am currently working on 
 [MarkdownToLaTeX](https://pypi.org/project/MarkdownToLaTeX), a Markdown-to-LaTeX parser.  
