@@ -6,8 +6,8 @@ MarkdownToLaTeX started as a toy project to which I could apply
 [<img src="https://raw.githubusercontent.com/gitcordier/gitcordier/main/tlaplus.png" alt="TLA Plus" width="3%">](https://github.com/tlaplus)  
 
 The MarkdownToLaTeX parsing implements a state machine whose steps are decided by  
-:one: The last input character,  
-:two: A bounded memory that stores the necessary context.
+:pencil2: The last input character,  
+:memo: A bounded memory that stores the necessary context.
 
 The parsing automaton was first written in 
 [<img src="https://raw.githubusercontent.com/gitcordier/gitcordier/main/tlaplus.png" alt="TLA Plus" width="3%">](https://github.com/tlaplus), next in 
