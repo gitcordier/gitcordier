@@ -4,15 +4,14 @@ I am currently working on
 [MarkdownToLaTeX](https://github.com/gitcordier/MarkdownToLaTeX), a Markdown-to-LaTeX parser you 
 can [`pip -install`](https://pypi.org/project/MarkdownToLaTeX).  
 
-The MarkdownToLaTeX parsing implements a state machine whose steps are decided by  
+The MarkdownToLaTeX parsing implements a state machine of which steps are decided by  
 :pencil2: The last input character,  
-:memo: A bounded memory that stores the necessary context.
-
+:memo: A bounded memory that stores the necessary context.  
+Parser source code is [here](https://github.com/gitcordier/MarkdownToLaTeX/blob/main/src/markdowntolatex/markdown/parser.py).  
 MarkdownToLaTeX started as a toy project to which I could apply 
 [<img src="https://raw.githubusercontent.com/gitcordier/gitcordier/main/tlaplus.png" alt="TLA Plus" width="3%">](https://github.com/tlaplus), 
 as explained in 
 [Specifying Systems](http://lamport.azurewebsites.net/tla/book.html?back-link=learning.html#book).  
-.  
 The parsing state machine was first written in 
 [<img src="https://raw.githubusercontent.com/gitcordier/gitcordier/main/tlaplus.png" alt="TLA Plus" width="3%">](https://github.com/tlaplus), next in 
 [<img src="https://raw.githubusercontent.com/gitcordier/gitcordier/main/python-logo@2x.png" alt="Python" width="7%">](https://github.com/gitcordier/MarkdownToLaTeX).  
