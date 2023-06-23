@@ -7,7 +7,7 @@ can [`pip -install`](https://pypi.org/project/MarkdownToLaTeX).
 The MarkdownToLaTeX parsing implements a state machine of which steps are decided by  
 :pencil2: The last input character,  
 :memo: A bounded memory that stores the necessary context.  
-Parser source code is [here](https://github.com/gitcordier/MarkdownToLaTeX/blob/main/src/markdowntolatex/markdown/parser.py).  
+The state machine source code is [here](https://github.com/gitcordier/MarkdownToLaTeX/blob/main/src/markdowntolatex/markdown/parser.py).  
 MarkdownToLaTeX started as a toy project to which I could apply 
 [<img src="https://raw.githubusercontent.com/gitcordier/gitcordier/main/tlaplus.png" alt="TLA Plus" width="3%">](https://github.com/tlaplus), 
 as explained in 
