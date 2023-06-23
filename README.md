@@ -1,22 +1,26 @@
 ## :man_technologist: { Hi there !
 ## :arrow_forward: [MarkdownToLaTeX](https://github.com/gitcordier/MarkdownToLaTeX) 1 :star:
 I am currently working on 
-[MarkdownToLaTeX](https://pypi.org/project/MarkdownToLaTeX), a Markdown-to-LaTeX parser.  
-MarkdownToLaTeX started as a toy project to which I could apply 
-[<img src="https://raw.githubusercontent.com/gitcordier/gitcordier/main/tlaplus.png" alt="TLA Plus" width="3%">](https://github.com/tlaplus)  
+[MarkdownToLaTeX](https://github.com/gitcordier/MarkdownToLaTeX), a Markdown-to-LaTeX parser you 
+can [`pip -install`](https://pypi.org/project/MarkdownToLaTeX).  
 
 The MarkdownToLaTeX parsing implements a state machine whose steps are decided by  
 :pencil2: The last input character,  
 :memo: A bounded memory that stores the necessary context.
 
-The parsing automaton was first written in 
+MarkdownToLaTeX started as a toy project to which I could apply 
+[<img src="https://raw.githubusercontent.com/gitcordier/gitcordier/main/tlaplus.png" alt="TLA Plus" width="3%">](https://github.com/tlaplus), 
+as explained in 
+[Specifying Systems](http://lamport.azurewebsites.net/tla/book.html?back-link=learning.html#book).  
+.  
+The parsing state machine was first written in 
 [<img src="https://raw.githubusercontent.com/gitcordier/gitcordier/main/tlaplus.png" alt="TLA Plus" width="3%">](https://github.com/tlaplus), next in 
-[<img src="https://raw.githubusercontent.com/gitcordier/gitcordier/main/python-logo@2x.png" alt="Python" width="7%">](https://github.com/gitcordier/MarkdownToLaTeX)  
- 
+[<img src="https://raw.githubusercontent.com/gitcordier/gitcordier/main/python-logo@2x.png" alt="Python" width="7%">](https://github.com/gitcordier/MarkdownToLaTeX).  
+
 A compiled-from-code [documentation](https://markdowntolatex.readthedocs.io) and a
 [mathsheet](https://raw.githubusercontent.com/gitcordier/MarkdownToLaTeX/main/MarkdownToLaTeX_Mathsheet.pdf) are available as well.
 
-This is an ongoing process… :rowboat: but I try as hard as I can to keep up the pace 
+This is an ongoing process… :rowboat: but I try as hard as I can to keep up the pace.
 ## :pause_button: [Functional Analysis](https://github.com/gitcordier/FunctionalAnalysis) 4 :star:
 Some solutions to Rudin's Functional Analysis.  
 It's been a long time I haven't added new content. I really should but proofreading takes time…
