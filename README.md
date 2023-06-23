@@ -21,7 +21,9 @@ The parsing state machine was first written in
 [<img src="https://raw.githubusercontent.com/gitcordier/gitcordier/main/python-logo@2x.png" alt="Python" width="7%">](https://github.com/gitcordier/MarkdownToLaTeX).  
 
 A compiled-from-code [documentation](https://markdowntolatex.readthedocs.io) and a
-[mathsheet](https://raw.githubusercontent.com/gitcordier/MarkdownToLaTeX/main/MarkdownToLaTeX_Mathsheet.pdf) are available as well.
+[mathsheet](https://raw.githubusercontent.com/gitcordier/MarkdownToLaTeX/main/MarkdownToLaTeX_Mathsheet.pdf) are available as well.  
+The first chapter of the mathsheet is about formal specification and my very own story with the topic.  
+I am always eager to learn, so feel free to give me a feedback!
 
 This is an ongoing process… :rowboat: but I try as hard as I can to keep up the pace.
 ## :pause_button: [Functional Analysis](https://github.com/gitcordier/FunctionalAnalysis) 4 :star:
