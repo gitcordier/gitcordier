@@ -1,5 +1,5 @@
 ## :man_technologist: { Hi there !
-## :arrow_forward: [MarkdownToLaTeX](https://github.com/gitcordier/MarkdownToLaTeX) 1 :star:
+## :arrow_forward: [MarkdownToLaTeX](https://github.com/gitcordier/MarkdownToLaTeX)
 I am currently working on 
 [MarkdownToLaTeX](https://github.com/gitcordier/MarkdownToLaTeX), a Markdown-to-LaTeX parser you 
 can [`pip -install`](https://pypi.org/project/MarkdownToLaTeX).  
@@ -26,6 +26,10 @@ The first chapter of the mathsheet is about formal specification and my very own
 I am always eager to learn, so feel free to give me a feedback!
 
 This is an ongoing process… :rowboat: but I try as hard as I can to keep up the pace.
+
+## :arrow_forward: [tlaplus](https://github.com/gitcordier/tlaplus)
+This repository is dedicated to TLA + specifications. Currently you may find here the specification of a reversible hoist, invented by the Renaissance architect Brunelleschi. Relevant historical note and pictures available at http://bdml.stanford.edu/Main/BrunelleschiNotes.
+
 ## :pause_button: [Functional Analysis](https://github.com/gitcordier/FunctionalAnalysis) 4 :star:
 Some solutions to Rudin's Functional Analysis.  
 It's been a long time I haven't added new content. I really should but proofreading takes time…
