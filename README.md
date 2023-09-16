@@ -30,7 +30,7 @@ This is an ongoing process… :rowboat: but I try as hard as I can to keep up t
 ## :arrow_forward: [tlaplus](https://github.com/gitcordier/tlaplus)
 This repository is dedicated to TLA + specifications. Currently, you may find here the specification of a reversible hoist, invented by the Renaissance architect Brunelleschi. Relevant historical note and pictures available at http://bdml.stanford.edu/Main/BrunelleschiNotes.
 
-## :arrow_forward: [Functional Analysis](https://github.com/gitcordier/FunctionalAnalysis) 6 :star:
+## :arrow_forward: [Functional Analysis](https://github.com/gitcordier/FunctionalAnalysis) 7 :star:
 Some solutions to Rudin's Functional Analysis.  
 It's been a long time I haven't added new content. I really should but proofreading takes time…
 Rewriting is ongoing.
