@@ -30,11 +30,11 @@ This is an ongoing process… :rowboat: but I try as hard as I can to keep up t
 ## :arrow_forward: [tlaplus](https://github.com/gitcordier/tlaplus)
 This repository is dedicated to TLA + specifications. Currently, you may find here the specification of a reversible hoist, invented by the Renaissance architect Brunelleschi. Relevant historical note and pictures available at http://bdml.stanford.edu/Main/BrunelleschiNotes.
 
-## :arrow_forward: [Functional Analysis](https://github.com/gitcordier/FunctionalAnalysis) 7 :star:
+## :arrow_forward: [Functional Analysis](https://github.com/gitcordier/FunctionalAnalysis) 16 :star:
 Some solutions to Rudin's Functional Analysis.  
 It's been a long time I haven't added new content. I really should but proofreading takes time…
 Rewriting is ongoing.
-## :white_check_mark: [Bellingcat](https://github.com/gitcordier/bellingcat) 9 :star:
+## :white_check_mark: [Bellingcat](https://github.com/gitcordier/bellingcat) 11 :star:
 Code from [Bellingcat's guide](https://www.bellingcat.com/category/resources/how-tos).
 ## :white_check_mark: [The ChemicalBrowsers](https://github.com/gitcordier/TheChemicalBrowsers)
 Given a chemical formula represented by a string, 
@@ -42,11 +42,11 @@ the parser counts the number of atoms of each element contained in the molecule
 then returns the result as a dictionary.  
 
 The trick is: Reading formulas from right to left makes the algorithm pretty straightforward.
-## :white_check_mark: [stack_qalculator](https://github.com/gitcordier/stack_qalculator)
+## :white_check_mark: [stack_qalculator](https://github.com/gitcordier/stack_qalculator) 
 Written for a job interview: A
 [Reverse Polish Notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation) calculator. 
 In other words, you can think of it as a stack-based process: First, push numbers in the stack, next compute then save the result as tail of the stack. 
-## :white_check_mark: [ReversePolishNotationParser](https://github.com/gitcordier/ReversePolishNotationParser)
+## :white_check_mark: [ReversePolishNotationParser](https://github.com/gitcordier/ReversePolishNotationParser) 1 :star: 
 Another reverse polish parser, written for a previous job process. 
 ## :white_check_mark: [Salesman problem: Special quadratic case](https://github.com/gitcordier/minimal_length_of_graph_traversal)
 The special case means quadratic complexity. I like this problem, since getting a clean algorithm was a little bit tricky, but I could make it. Found the problem in a coding contest.
