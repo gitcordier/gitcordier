@@ -8,7 +8,7 @@ Rewriting is ongoing.
 
 Code from [Bellingcat&#39;s guide](https://www.bellingcat.com/category/resources/how-tos).
 
-## 👨‍💻 { Hi there !
+## 👨‍💻 { Hi !
 
 ## ▶️ [MarkdownToLaTeX](https://github.com/gitcordier/MarkdownToLaTeX)
 
