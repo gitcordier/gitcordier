@@ -16,21 +16,13 @@ I am currently working on
 [MarkdownToLaTeX](https://github.com/gitcordier/MarkdownToLaTeX), a Markdown-to-LaTeX parser you
 can [`pip -install`](https://pypi.org/project/MarkdownToLaTeX).
 
-The MarkdownToLaTeX parsing implements a state machine of which steps are decided by
-✏️ The last input character,
-📝 A bounded memory that stores the necessary context.
+The MarkdownToLaTeX parsing implements a state machine of which steps are decided according to the last input character. A bounded memory stores the necessary context.
 
 The state machine source code is [here](https://github.com/gitcordier/MarkdownToLaTeX/blob/main/src/markdowntolatex/markdown/parser.py).
 Markdown parsing and LaTeX document structuring are combined
 [here](https://github.com/gitcordier/MarkdownToLaTeX/blob/main/src/markdowntolatex/latex/document.py).
 
-MarkdownToLaTeX started as a toy project to which I could apply
-[`<img src="https://raw.githubusercontent.com/gitcordier/gitcordier/main/tlaplus.png" alt="TLA Plus" width="3%">`](https://github.com/tlaplus),
-as explained in
-[Specifying Systems](http://lamport.azurewebsites.net/tla/book.html?back-link=learning.html#book).
-The parsing state machine was first written in
-[`<img src="https://raw.githubusercontent.com/gitcordier/gitcordier/main/tlaplus.png" alt="TLA Plus" width="3%">`](https://github.com/tlaplus), next in
-[`<img src="https://raw.githubusercontent.com/gitcordier/gitcordier/main/python-logo@2x.png" alt="Python" width="7%">`](https://github.com/gitcordier/MarkdownToLaTeX).
+MarkdownToLaTeX started as a toy project to which I could apply [TLA +](https://github.com/tlaplus) as explained in [Specifying Systems](http://lamport.azurewebsites.net/tla/book.html?back-link=learning.html#book). The parsing state machine was first written in [TLA +](https://github.com/tlaplus), next in [Python](https://www.python.org).
 
 A compiled-from-code [documentation](https://markdowntolatex.readthedocs.io) and a
 [mathsheet](https://raw.githubusercontent.com/gitcordier/MarkdownToLaTeX/main/MarkdownToLaTeX_Mathsheet.pdf) are available as well.
