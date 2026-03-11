@@ -6,13 +6,7 @@ Rewriting is ongoing.
 
 ## ✅ [Jobmap](https://github.com/gitcordier/jobmap)
 
-Interactive job search application that displays results on OpenStreetMap. Backed by the Adzuna Jobs API.
-
-## ✅ [Bellingcat](https://github.com/gitcordier/bellingcat) 11 ⭐️
-
-Code from [Bellingcat&#39;s guide](https://www.bellingcat.com/category/resources/how-tos).
-
-## 👨‍💻 { Hi !
+Interactive job searc that displays results on OpenStreetMap. Backed by the Adzuna Jobs API.
 
 ## ▶️ [MarkdownToLaTeX](https://github.com/gitcordier/MarkdownToLaTeX)
 
@@ -38,6 +32,10 @@ This is an ongoing process… 🚣 but I try as hard as I can to keep up the pa
 ## ▶️ [tlaplus](https://github.com/gitcordier/tlaplus)
 
 This repository is dedicated to TLA + specifications. Currently, you may find here the specification of a reversible hoist, invented by the Renaissance architect Brunelleschi. Relevant historical note and pictures available at http://bdml.stanford.edu/Main/BrunelleschiNotes.
+
+## ✅ [Bellingcat](https://github.com/gitcordier/bellingcat) 11 ⭐️
+
+Code from [Bellingcat&#39;s guide](https://www.bellingcat.com/category/resources/how-tos).
 
 ## ✅ [The ChemicalBrowsers](https://github.com/gitcordier/TheChemicalBrowsers)
 
