@@ -6,7 +6,7 @@ Rewriting is ongoing.
 
 ## ✅ [Jobmap](https://github.com/gitcordier/jobmap)
 
-Interactive job-listing visualiser backed by the Adzuna Jobs API, with geocoding via Nominatim (OpenStreetMap), persistence in SQLite (SQLAlchemy 2), and a live Leaflet map served by a pure-stdlib Python HTTP server.
+Interactive job search application that displays results on OpenStreetMap. Backed by the Adzuna Jobs API.
 
 ## ✅ [Bellingcat](https://github.com/gitcordier/bellingcat) 11 ⭐️
 
