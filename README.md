@@ -4,6 +4,10 @@ Some solutions to Rudin's Functional Analysis.
 It's been a long time I haven't added new content. I really should but proofreading takes time…
 Rewriting is ongoing.
 
+## ✅ [Jobmap](https://github.com/gitcordier/jobmap)
+
+Interactive job-listing visualiser backed by the Adzuna Jobs API, with geocoding via Nominatim (OpenStreetMap), persistence in SQLite (SQLAlchemy 2), and a live Leaflet map served by a pure-stdlib Python HTTP server.
+
 ## ✅ [Bellingcat](https://github.com/gitcordier/bellingcat) 11 ⭐️
 
 Code from [Bellingcat&#39;s guide](https://www.bellingcat.com/category/resources/how-tos).
