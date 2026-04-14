@@ -4,7 +4,7 @@ Some solutions to Rudin's Functional Analysis.
 It's been a long time I haven't added new content. I really should but proofreading takes time…
 Rewriting is ongoing.
 
-## ▶️ [[SAT-style math MCQs](https://github.com/gitcordier/SAT-style-math-MCQs)
+## ▶️ [SAT-style math MCQs](https://github.com/gitcordier/SAT-style-math-MCQs)
 
 In French. SAT-style math MCQs I wrote when I was teaching. I am publishing them, after review.
 Each exercise comes with a Python program that computes the solution.
