@@ -1,6 +1,6 @@
 # Jean-Gabriel Cordier
 
-Mathematical engineer. I work across parsing, algorithms, formal specification, and data engineering. Below is a selection of projects — active and completed.
+Mathematical engineer. Deep interest formal methods. Below is a selection of projects, active and completed.
 
 ---
 
@@ -20,7 +20,7 @@ A new version of MarkdowntoLaTeX is currently under development. Switch to the d
 - [specifications](https://github.com/gitcordier/MarkdownToLaTeX/tree/dev/specs)
 
 ### [Functional Analysis](https://github.com/gitcordier/FunctionalAnalysis) ⭐ 16
-Selected solutions to Rudin's *Functional Analysis*. Ongoing revision and expansion.
+Selected solutions to Rudin's *Functional Analysis*. Ongoing revision and expansion. You can [download](https://raw.githubusercontent.com/gitcordier/FunctionalAnalysis/refs/heads/master/FA_DM.pdf) them as a pdf file.
 
 ### [TLA+ Specifications](https://github.com/gitcordier/tlaplus)
 Formal specifications written in TLA+. Includes a specification of the reversible hoist invented by Renaissance architect Brunelleschi. ([Historical reference](http://bdml.stanford.edu/Main/BrunelleschiNotes))
@@ -39,7 +39,7 @@ An interactive job search interface that renders results on OpenStreetMap, backe
 Python3 translation of [Bellingcat's open-source intelligence guides](https://www.bellingcat.com/category/resources/how-tos).
 
 ### [TheChemicalBrowsers](https://github.com/gitcordier/TheChemicalBrowsers)
-A parser that counts atoms per element from a chemical formula string, returning the result as a dictionary. Parsing proceeds right-to-left, which simplifies handling of nested parenthetical groups.
+This parser counts atoms per element from a chemical formula string, returning the result as a dictionary. Parsing proceeds *right-to-left*, which simplifies handling of nested parenthetical groups.
 
 ### [stack_qalculator](https://github.com/gitcordier/stack_qalculator)
 A [Reverse Polish Notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation) calculator implemented as a stack-based processor.
@@ -48,7 +48,7 @@ A [Reverse Polish Notation](https://en.wikipedia.org/wiki/Reverse_Polish_notatio
 An alternative Reverse Polish Notation parser implementation.
 
 ### [Salesman Problem: Special Quadratic Case](https://github.com/gitcordier/minimal_length_of_graph_traversal)
-A solution to a restricted variant of the travelling salesman problem that admits a quadratic-complexity algorithm. Originally encountered in a competitive programming context.
+A solution to a variant of the travelling salesman problem that admits a quadratic-complexity algorithm. Originally encountered in a competitive programming context.
 
 ### [Using Selenium](https://github.com/gitcordier/selenium)
-A reusable Selenium scraping template that extracts participant website links from a structured event directory page.
+A reusable Selenium scraping template that extracts participant website links.
