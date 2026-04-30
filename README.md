@@ -1,71 +1,54 @@
-## ▶️ [Functional Analysis](https://github.com/gitcordier/FunctionalAnalysis) 16 ⭐️
+# Jean-Gabriel Cordier
 
-Some solutions to Rudin's Functional Analysis.
-It's been a long time I haven't added new content. I really should but proofreading takes time…
-Rewriting is ongoing.
+Mathematical engineer. I work across parsing, algorithms, formal specification, and data engineering. Below is a selection of projects — active and completed.
 
-## ▶️ [SAT-style math MCQs](https://github.com/gitcordier/SAT-style-math-MCQs)
+---
 
-In French. SAT-style math MCQs I wrote when I was teaching. I am publishing them, after review.
-Each exercise comes with a Python program that computes the solution.
-I will publish an English version.
+## Active Projects
 
-## ✅ [Jobmap](https://github.com/gitcordier/jobmap)
+### [MarkdownToLaTeX](https://github.com/gitcordier/MarkdownToLaTeX)
+A Markdown-to-LaTeX parser, installable via [`pip install MarkdownToLaTeX`](https://pypi.org/project/MarkdownToLaTeX).
 
-Interactive job searc that displays results on OpenStreetMap. Backed by the Adzuna Jobs API.
+The parser implements a state machine with bounded memory for context tracking. The design was formally specified in [TLA+](https://github.com/tlaplus) before being implemented in Python — following the methodology described in Lamport's [*Specifying Systems*](http://lamport.azurewebsites.net/tla/book.html).
 
-## ▶️ [MarkdownToLaTeX](https://github.com/gitcordier/MarkdownToLaTeX)
+- [State machine source](https://github.com/gitcordier/MarkdownToLaTeX/blob/main/src/markdowntolatex/markdown/parser.py)
+- [LaTeX document structuring](https://github.com/gitcordier/MarkdownToLaTeX/blob/main/src/markdowntolatex/latex/document.py)
+- [Documentation](https://markdowntolatex.readthedocs.io)
 
-I am currently working on
-[MarkdownToLaTeX](https://github.com/gitcordier/MarkdownToLaTeX), a Markdown-to-LaTeX parser you
-can [`pip -install`](https://pypi.org/project/MarkdownToLaTeX).
+A new version of MarkdowntoLaTeX is currently under development. Switch to the dev branch to follow its progress.
 
-The MarkdownToLaTeX parsing implements a state machine of which steps are decided according to the last input character. A bounded memory stores the necessary context.
+- [specifications](https://github.com/gitcordier/MarkdownToLaTeX/tree/dev/specs)
 
-The state machine source code is [here](https://github.com/gitcordier/MarkdownToLaTeX/blob/main/src/markdowntolatex/markdown/parser.py).
-Markdown parsing and LaTeX document structuring are combined
-[here](https://github.com/gitcordier/MarkdownToLaTeX/blob/main/src/markdowntolatex/latex/document.py).
+### [Functional Analysis](https://github.com/gitcordier/FunctionalAnalysis) ⭐ 16
+Selected solutions to Rudin's *Functional Analysis*. Ongoing revision and expansion.
 
-MarkdownToLaTeX started as a toy project to which I could apply [TLA +](https://github.com/tlaplus) as explained in [Specifying Systems](http://lamport.azurewebsites.net/tla/book.html?back-link=learning.html#book). The parsing state machine was first written in [TLA +](https://github.com/tlaplus), next in [Python](https://www.python.org).
+### [TLA+ Specifications](https://github.com/gitcordier/tlaplus)
+Formal specifications written in TLA+. Includes a specification of the reversible hoist invented by Renaissance architect Brunelleschi. ([Historical reference](http://bdml.stanford.edu/Main/BrunelleschiNotes))
 
-A compiled-from-code [documentation](https://markdowntolatex.readthedocs.io) and a
-[mathsheet](https://raw.githubusercontent.com/gitcordier/MarkdownToLaTeX/main/MarkdownToLaTeX_Mathsheet.pdf) are available as well.
-The first chapter of the mathsheet is about formal specification and my very own story with the topic.
-I am always eager to learn, so feel free to give me a feedback!
+### [SAT-Style Math MCQs](https://github.com/gitcordier/SAT-style-math-MCQs)
+A collection of SAT-style mathematics problems, written for teaching, with an appendix for advanced readers. Each exercise is accompanied by a Python program that computes the solution. Currently available in French; an English edition is in preparation.
 
-This is an ongoing process… 🚣 but I try as hard as I can to keep up the pace.
+---
 
-## ▶️ [tlaplus](https://github.com/gitcordier/tlaplus)
+## Completed Projects
 
-This repository is dedicated to TLA + specifications. Currently, you may find here the specification of a reversible hoist, invented by the Renaissance architect Brunelleschi. Relevant historical note and pictures available at http://bdml.stanford.edu/Main/BrunelleschiNotes.
+### [Jobmap](https://github.com/gitcordier/jobmap)
+An interactive job search interface that renders results on OpenStreetMap, backed by the Adzuna Jobs API.
 
-## ✅ [Bellingcat](https://github.com/gitcordier/bellingcat) 11 ⭐️
+### [Bellingcat](https://github.com/gitcordier/bellingcat) ⭐ 11
+Python3 translation of [Bellingcat's open-source intelligence guides](https://www.bellingcat.com/category/resources/how-tos).
 
-Code from [Bellingcat&#39;s guide](https://www.bellingcat.com/category/resources/how-tos).
+### [TheChemicalBrowsers](https://github.com/gitcordier/TheChemicalBrowsers)
+A parser that counts atoms per element from a chemical formula string, returning the result as a dictionary. Parsing proceeds right-to-left, which simplifies handling of nested parenthetical groups.
 
-## ✅ [The ChemicalBrowsers](https://github.com/gitcordier/TheChemicalBrowsers)
+### [stack_qalculator](https://github.com/gitcordier/stack_qalculator)
+A [Reverse Polish Notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation) calculator implemented as a stack-based processor.
 
-Given a chemical formula represented by a string,
-the parser counts the number of atoms of each element contained in the molecule
-then returns the result as a dictionary.
+### [ReversePolishNotationParser](https://github.com/gitcordier/ReversePolishNotationParser) ⭐ 1
+An alternative Reverse Polish Notation parser implementation.
 
-The trick is: Reading formulas from right to left makes the algorithm pretty straightforward.
+### [Salesman Problem: Special Quadratic Case](https://github.com/gitcordier/minimal_length_of_graph_traversal)
+A solution to a restricted variant of the travelling salesman problem that admits a quadratic-complexity algorithm. Originally encountered in a competitive programming context.
 
-## ✅ [stack_qalculator](https://github.com/gitcordier/stack_qalculator)
-
-Written for a job interview: A
-[Reverse Polish Notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation) calculator.
-In other words, you can think of it as a stack-based process: First, push numbers in the stack, next compute then save the result as tail of the stack.
-
-## ✅ [ReversePolishNotationParser](https://github.com/gitcordier/ReversePolishNotationParser) 1 ⭐️
-
-Another reverse polish parser, written for a previous job process.
-
-## ✅ [Salesman problem: Special quadratic case](https://github.com/gitcordier/minimal_length_of_graph_traversal)
-
-The special case means quadratic complexity. I like this problem, since getting a clean algorithm was a little bit tricky, but I could make it. Found the problem in a coding contest.
-
-## ✅ [Using Selenium](https://github.com/gitcordier/selenium)
-
-Given a workshop (at this time, it was https://www.parisfintechforum.com), the script gets all "featured" participants websites (Source: https://www.parisfintechforum.com/PFF2018/participants).
-you can see this code as a template: I assume that the code can be easily reused and applied to other websites.
+### [Using Selenium](https://github.com/gitcordier/selenium)
+A reusable Selenium scraping template that extracts participant website links from a structured event directory page.
