@@ -6,6 +6,21 @@ Mathematical engineer. Deep interest formal methods. Below is a selection of pro
 
 ## Active Projects
 
+### [Functional Analysis](https://github.com/gitcordier/FunctionalAnalysis) ⭐ 17
+Selected solutions to Rudin's *Functional Analysis*. Ongoing revision and expansion. You can [download](https://raw.githubusercontent.com/gitcordier/FunctionalAnalysis/refs/heads/master/FA_DM.pdf) them as a pdf file.
+
+## [Claude skills](https://github.com/gitcordier/claude-skills)
+**SKILL.md** files for Claude. 
+| Skill | Purpose |
+|---|---|
+| [grammar](skills/grammar/SKILL.md) | Rules for using and punctuating "so", "thus", "therefore", "hence" in English. |
+| [latex-formatting](skills/latex-formatting/SKILL.md) | Format LuaLaTeX `.tex` files (line length, indentation, comments, end of file). |
+| [mathematical-writing](skills/mathematical-writing/SKILL.md) | Rule graph for writing, refereeing and polishing mathematics (after Knuth, Halmos et al.). |
+| [proofreading](skills/proofreading/SKILL.md) | Proofread LuaLaTeX math books (American English); findings go to `review.md`. |
+| [python-programming](skills/python-programming/SKILL.md) | Create/update Python code and documentation following best practices. |
+| [web-app](skills/web-app/SKILL.md) | Build web apps, scoped to your `<OUTPUT_DIR>` folder. |
+
+
 ### [MarkdownToLaTeX](https://github.com/gitcordier/MarkdownToLaTeX)
 A Markdown-to-LaTeX parser, installable via [`pip install MarkdownToLaTeX`](https://pypi.org/project/MarkdownToLaTeX).
 
@@ -18,9 +33,6 @@ The parser implements a state machine with bounded memory for context tracking. 
 A new version of MarkdowntoLaTeX is currently under development. Switch to the dev branch to follow its progress.
 
 - [specifications](https://github.com/gitcordier/MarkdownToLaTeX/tree/dev/specs)
-
-### [Functional Analysis](https://github.com/gitcordier/FunctionalAnalysis) ⭐ 16
-Selected solutions to Rudin's *Functional Analysis*. Ongoing revision and expansion. You can [download](https://raw.githubusercontent.com/gitcordier/FunctionalAnalysis/refs/heads/master/FA_DM.pdf) them as a pdf file.
 
 ### [TLA+ Specifications](https://github.com/gitcordier/tlaplus)
 Formal specifications written in TLA+. Includes a specification of the reversible hoist invented by Renaissance architect Brunelleschi. ([Historical reference](http://bdml.stanford.edu/Main/BrunelleschiNotes))
