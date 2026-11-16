@@ -21,7 +21,7 @@ Selected solutions to Rudin's *Functional Analysis*. Ongoing revision and expans
 | [web-app](skills/web-app/SKILL.md) | Build web apps, scoped to your `<OUTPUT_DIR>` folder. |
 
 
-### [MarkdownToLaTeX](https://github.com/gitcordier/MarkdownToLaTeX)
+### [MarkdownToLaTeX](https://github.com/gitcordier/MarkdownToLaTeX) ⭐ 1
 A Markdown-to-LaTeX parser, installable via [`pip install MarkdownToLaTeX`](https://pypi.org/project/MarkdownToLaTeX).
 
 The parser implements a state machine with bounded memory for context tracking. The design was formally specified in [TLA+](https://github.com/tlaplus) before being implemented in Python — following the methodology described in Lamport's [*Specifying Systems*](http://lamport.azurewebsites.net/tla/book.html).
